@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprovidence&layout=compact&title_color=2F374F)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprovidence&layout=compact&title_color=2F374F)]
 
 ### Stats
 
