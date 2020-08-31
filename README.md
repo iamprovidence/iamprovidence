@@ -9,6 +9,9 @@
 - 👯 I’m looking to collaborate on small Unity project
 - ⚡ Fun fact: Fire indeed hot
 
+### Stats
+
+![](https://github-readme-stats.vercel.app/api?username=iamprovidence&show_icons=true&hide=contribs,stars&title_color=2F374F&icon_color=2F374F&text_color=7B89B0)
 
 ### Languages and Tools:
 
@@ -19,7 +22,3 @@
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprovidence&layout=compact&title_color=2F374F)
-
-### Stats
-
-![](https://github-readme-stats.vercel.app/api?username=iamprovidence&show_icons=true&hide=contribs,stars&title_color=2F374F&icon_color=2F374F&text_color=7B89B0)
