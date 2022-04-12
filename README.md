@@ -4,9 +4,8 @@
 [![](https://img.shields.io/badge/-@iamprovidence-%23181717?style=for-the-badge&logo=github)](https://github.com/iamprovidence)
 [![](https://img.shields.io/badge/-Taras%20Kizlo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taras-kizlo-b5907518b/)](https://www.linkedin.com/in/taras-kizlo-b5907518b/)
 
-- 🔭 I’m currently working on pet project with websocket in used
+- 🔭 I’m currently working on pet projects
 - 🌱 I’m currently learning everything :satisfied:
-- 👯 I’m looking to collaborate on small Unity project
 - ⚡ Fun fact: Fire indeed hot
 
 ### Stats
