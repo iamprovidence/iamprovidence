@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Taras Kizlo
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=iamprovidence&repo=github-visitors-badge&countColorcountColor&countColor=%23105FAB)
 [![](https://img.shields.io/badge/-@iamprovidence-%23181717?style=for-the-badge&logo=github)](https://github.com/iamprovidence)
 [![](https://img.shields.io/badge/-Taras%20Kizlo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taras-kizlo-b5907518b/)](https://www.linkedin.com/in/taras-kizlo-b5907518b/)
 
