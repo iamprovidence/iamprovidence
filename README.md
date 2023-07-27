@@ -10,7 +10,7 @@
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iamprovidence&show_icons=true&hide=contribs,stars&title_color=2F374F&icon_color=2F374F&text_color=7B89B0)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=iamprovidence&show_icons=true&hide=contribs,stars&title_color=2F374F&icon_color=2F374F&text_color=7B89B0)
 
 ### Languages and Tools:
 
@@ -20,4 +20,4 @@
 <br/>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprovidence&layout=compact&title_color=2F374F)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamprovidence&layout=compact&title_color=2F374F)
